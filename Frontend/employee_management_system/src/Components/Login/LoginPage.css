@@ -1,0 +1,20 @@
+.login-container{
+    background: url('images/login.jpg');
+    background: linear-gradient(rgba(11,11,11,0.5), rgba(80, 65, 65, 0.5)), url('images/login.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%; 
+}
+
+.form-container{
+
+    color:white
+}
+
+.checkbox{
+    margin-top: 20px;
+}
+
+.label{
+    padding-left: 5px;
+}
